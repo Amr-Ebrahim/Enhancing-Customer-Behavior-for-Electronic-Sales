@@ -48,6 +48,7 @@ v+m
 m
 ​
  ⋅C```
+
 v: Number of votes for the product.
 
 m: Minimum number of votes required to be listed in the chart (65th percentile).  
